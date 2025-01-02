@@ -1,0 +1,198 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#biig {
+    padding: 64px 158px;
+    background-color: #FFF;
+}
+
+#Features {
+    margin: 0 auto;
+    max-width: 1604px;
+    width: 100%;
+    padding: 96px;
+    align-items: center;
+    background: #E4EBFF;
+}
+
+#header-container {
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+    padding: var(--spacing-9xl, 96px) 0px;
+    align-items: center;
+    background: #FFF;
+}
+
+#center {
+    text-align: center;
+}
+
+#paragraf {
+    color: #6941C6;
+    font-family: var(--Font-family-font-family-body, Inter);
+    font-size: var(--Font-size-text-md, 16px);
+}
+
+#h1 {
+    color: #181D27;
+    margin-top: 12px;
+    font-family: "Inknut Antiqua";
+    font-size: 40px;
+
+}
+
+#powerful {
+    color: #535862;
+    margin-top: 32px;
+    font-family: "Inria Sans";
+    font-size: 20px;
+
+}
+
+#container-2 {
+    margin-top: 96px;
+}
+
+#number-1 {
+    padding: 0 32px;
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 553px;
+}
+
+.message-chat {
+    width: 48px;
+    height: 48px;
+    padding: 12px;
+    justify-content: center;
+    align-items: center;
+    border-radius: var(--radius-full, 9999px);
+    background: #F4EBFF;
+}
+
+.team {
+    color: #181D27;
+    padding-top: 20px;
+    font-family: Inter;
+    font-size: var(--Font-size-display-sm, 30px);
+}
+
+.have {
+    color: #535862;
+    max-width: 560px;
+    width: 100%;
+    font-family: Inter;
+    font-size: 18px;
+    padding-top: 16px;
+}
+
+.logo-clas {
+    display: inline-block;
+    padding-bottom: 20px;
+    vertical-align: middle;
+    margin-top: 20px
+}
+
+#logo-box {
+    max-width: 560px;
+    width: 100%;
+    padding-left: 16px;
+
+}
+
+.p1 {
+    vertical-align: middle;
+    display: inline-block;
+    padding-left: 12px;
+    color: #535862;
+    font-weight: 400;
+
+}
+
+#number-2 {
+    width: 553px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 128px;
+
+}
+
+
+#foto {
+    margin-top: 96px;
+
+}
+
+#instant {
+    color: #181D27;
+    max-width: 560px;
+    width: 100%;
+    font-family: Inter;
+    font-size: var(--Font-size-display-sm, 30px);
+}
+
+#customer {
+    max-width: 560px;
+    width: 100%;
+    vertical-align: middle;
+}
+
+#box-box {
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 560px;
+}
+
+#mm {
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 20px;
+}
+
+
+#aa {
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 753px;
+}
+
+
+#ff {
+    vertical-align: middle;
+    margin-left: 101.04px;
+}
+
+#automation {
+    padding-left: 16px;
+    display: inline-block;
+}
+
+#box-3 {
+    margin-top: 101px;
+    margin-left: 32px;
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 560px;
+}
+
+#mockup {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 97px;
+    max-width: 447px;
+
+
+}
+
+#mode {
+    
+}
+
+#big-big1 {
+    margin-top: 96px;
+
+}
